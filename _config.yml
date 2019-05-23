@@ -11,3 +11,5 @@ baseurl: /brume
 # Custom options:
 # color_scheme: azul|ruby|amber|avocado
 # color_scheme: avocado
+
+theme: jekyll-theme-cayman
